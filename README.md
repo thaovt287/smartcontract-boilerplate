@@ -1,2 +1,2 @@
 # smartcontract-boilerplate
-test git
+test
